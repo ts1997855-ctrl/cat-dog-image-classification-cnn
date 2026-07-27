@@ -1,0 +1,5 @@
+Model,Test Accuracy,Test Loss
+Basic Neural Network,0.4998,0.6931
+CNN - One Convolution Layer,0.7034,0.8128
+CNN - Two Convolution Layers,0.6935,0.7129
+Bigger CNN,0.7326,0.5725
